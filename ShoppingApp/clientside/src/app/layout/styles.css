@@ -1,0 +1,16 @@
+.app {
+  color: red;
+}
+
+.imgs{
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  top: 0;
+  background-image: url('../../photo/online.png');
+}
+
+/* --------about us */
+
